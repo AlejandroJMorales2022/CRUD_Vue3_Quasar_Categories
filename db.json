@@ -1,0 +1,145 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "crud vue3 y quasar",
+      "author": "javier",
+      "content": "archivo de altas bajas y modificaciones con Vue3, Quasar y API Rest"
+    },
+    {
+      "id": 2,
+      "title": "react y Node",
+      "author": "alejandro",
+      "content": "archivo de altas bajas y modificaciones con Vue3, Quasar y API Rest"
+    },
+    {
+      "id": 3,
+      "title": "JavaScript",
+      "author": "julio",
+      "content": "archivo de altas bajas y modificaciones con Vue3, Quasar y API Rest"
+    },
+    {
+      "id": 4,
+      "title": "Phyton",
+      "author": "maria",
+      "content": "archivo de altas bajas y modificaciones con Vue3, Quasar y API Rest"
+    },
+    {
+      "id": 6,
+      "title": "crud vue3 y quasar",
+      "author": "javier",
+      "content": "archivo de altas bajas y modificaciones con Vue3, Quasar y API Rest"
+    },
+    {
+      "title": "Modificando",
+      "content": "Este registro se modifico desde el formulario",
+      "author": "Autor de Modif",
+      "id": 7
+    },
+    {
+      "title": "otro ejemplo",
+      "content": "de agregar un registro",
+      "author": "mas",
+      "id": 8
+    },
+    {
+      "title": "Juanjo",
+      "content": "Futbol&nbsp; dskjdhsakjdhsad<div>dasdjkhsdkjhSKJDSd</div>",
+      "author": "Jugando",
+      "id": 9
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "automovilismo",
+      "subcategory": 1,
+      "description": "Formula 1 Internacional&nbsp;",
+      "subcategoryname": "amateur A"
+    },
+    {
+      "id": 2,
+      "name": "futbol",
+      "subcategory": 4,
+      "description": "Primera Division del Futbol Argentino v",
+      "subcategoryname": "primera A"
+    },
+    {
+      "id": 3,
+      "name": "automovilismo",
+      "subcategory": 2,
+      "description": "Formula 3 Sudamericanas"
+    },
+    {
+      "id": 4,
+      "name": "futbol",
+      "subcategory": 5,
+      "description": "Nacional B Ascenso del Futbol Argentino"
+    },
+    {
+      "name": "futbol",
+      "description": "Liga Amateur de Futbol, Division A",
+      "subcategory": 4,
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "automovilismo",
+      "subcategory": 1,
+      "description": "Formula 1 Internacional&nbsp;"
+    },
+    {
+      "id": 7,
+      "name": "futbol",
+      "subcategory": 3,
+      "description": "Primera Division del Futbol Argentino v"
+    },
+    {
+      "id": 8,
+      "name": "automovilismo",
+      "subcategory": 2,
+      "description": "Formula 3 Sudamericana"
+    },
+    {
+      "id": 9,
+      "name": "futbol",
+      "subcategory": 5,
+      "description": "Nacional B Ascenso del Futbol Argentino"
+    },
+    {
+      "id": 10,
+      "name": "futbol",
+      "subcategory": 4,
+      "description": "Liga Amateur de Futbol, Division A"
+    },
+    {
+      "name": "Tenis",
+      "description": "Tenis amateur infantil",
+      "subcategory": 5,
+      "subcategoryname": "amateur A",
+      "id": 11
+    }
+  ],
+  "subcategories": [
+    {
+      "id": 1,
+      "name": "f1"
+    },
+    {
+      "id": 2,
+      "name": "f3-sud"
+    },
+    {
+      "id": 3,
+      "name": "primera A"
+    },
+    {
+      "id": 4,
+      "name": "amateur A"
+    },
+    {
+      "id": 5,
+      "name": "nacional B"
+    }
+  ]
+}
